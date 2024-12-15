@@ -9,9 +9,9 @@
 
 ## DEVELOPERS
 
+* [Trustful Zuzalu Contracts](developers/readme.md)
 * [SUMMARY](developers/summary.md)
 * [Guides](developers/guides.md)
-* [Trustful Zuzalu Contracts](developers/readme.md)
 * [Contents](developers/src/README.md)
   * [Common.sol](developers/src/common.sol/README.md)
     * [Constants](developers/src/common.sol/constants.common.md)
