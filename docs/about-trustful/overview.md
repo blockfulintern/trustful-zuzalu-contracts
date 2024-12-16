@@ -10,7 +10,7 @@ At this phase, Trustful has successfully implemented one of its foundational fea
 
 ### Sepolia
 
-This environment houses the complete implementation of Statement Badges and Access Control mechanisms, providing stakeholders with a complete experience\[internal link to the video] with that Trustful has to offer at the moment.
+This environment houses the complete implementation of Statement Badges and Access Control mechanisms, providing stakeholders with a complete experience with that Trustful has to offer at the moment.
 
 ### Optmism
 
