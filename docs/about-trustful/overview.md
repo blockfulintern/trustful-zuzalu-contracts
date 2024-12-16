@@ -1,6 +1,6 @@
 # Overview
 
-> Trustful at early stages
+> Trustful emerge
 
 Trustful emerged to serve as a security layer for DAOs through reputation systems. The platform aims to transform traditional token-based voting power into a value-based approach, ushering in an era of [valocracy](https://mirror.xyz/research.blockful.eth/Ht7raeMRhVNg64X-uHJ3vowmox2Dx8_OPMWVWPnkVyI) in decentralized governance.
 
