@@ -1,2 +1,0 @@
-# ISchemaRegistry.sol
-

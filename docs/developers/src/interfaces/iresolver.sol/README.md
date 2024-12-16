@@ -1,2 +1,0 @@
-# IResolver.sol
-
